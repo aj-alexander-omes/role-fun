@@ -1,0 +1,15 @@
+C:\Users\d25\source\dotnet\test-proj\bin\Debug\net6.0\test-proj.exe
+C:\Users\d25\source\dotnet\test-proj\bin\Debug\net6.0\test-proj.deps.json
+C:\Users\d25\source\dotnet\test-proj\bin\Debug\net6.0\test-proj.runtimeconfig.json
+C:\Users\d25\source\dotnet\test-proj\bin\Debug\net6.0\test-proj.dll
+C:\Users\d25\source\dotnet\test-proj\bin\Debug\net6.0\test-proj.pdb
+C:\Users\d25\source\dotnet\test-proj\obj\Debug\net6.0\test-proj.csproj.AssemblyReference.cache
+C:\Users\d25\source\dotnet\test-proj\obj\Debug\net6.0\test-proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d25\source\dotnet\test-proj\obj\Debug\net6.0\test-proj.AssemblyInfoInputs.cache
+C:\Users\d25\source\dotnet\test-proj\obj\Debug\net6.0\test-proj.AssemblyInfo.cs
+C:\Users\d25\source\dotnet\test-proj\obj\Debug\net6.0\test-proj.csproj.CoreCompileInputs.cache
+C:\Users\d25\source\dotnet\test-proj\obj\Debug\net6.0\test-proj.dll
+C:\Users\d25\source\dotnet\test-proj\obj\Debug\net6.0\refint\test-proj.dll
+C:\Users\d25\source\dotnet\test-proj\obj\Debug\net6.0\test-proj.pdb
+C:\Users\d25\source\dotnet\test-proj\obj\Debug\net6.0\test-proj.genruntimeconfig.cache
+C:\Users\d25\source\dotnet\test-proj\obj\Debug\net6.0\ref\test-proj.dll
